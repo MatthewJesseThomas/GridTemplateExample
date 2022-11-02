@@ -1,0 +1,16 @@
+/* Universal Selectors */
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Header Footer */
+header, footer {
+    background-color:darkcyan ;
+}
+main {
+    background-color: lightcyan;
+}
+/* Layout */
